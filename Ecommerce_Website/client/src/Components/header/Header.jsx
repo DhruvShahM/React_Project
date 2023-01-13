@@ -25,6 +25,7 @@ const PlusImg=styled('img')({
 
 const CustomButtonWrapper=styled(Box)`
     margin:0 5% 0 auto;
+    display:flex;
 `
 
 const Header = () => {
