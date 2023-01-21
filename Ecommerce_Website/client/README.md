@@ -13,3 +13,6 @@ redux installations:
 2.npm i redux
 3.npm i redux-thunk(middleware)
 4.npm i react-redux
+
+react countdown timer:
+npm i react-countdown
