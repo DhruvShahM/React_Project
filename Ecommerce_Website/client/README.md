@@ -16,3 +16,6 @@ redux installations:
 
 react countdown timer:
 npm i react-countdown
+
+router:
+npm i react-router-dom
